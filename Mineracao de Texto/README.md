@@ -22,11 +22,11 @@
 - [The Capital Advisor](https://comoinvestir.thecap.com.br/)
 
 ## Dicionários léxicos
-[FIN](
-[SentiLex]
-[LCSR]
-[OS]
-[BBLEX](https://www.brazilianjournals.com/index.php/BRJD/article/view/23958/19223)
+[FIN]()  
+[SentiLex]()  
+[LCSR]()  
+[OS]()  
+[BBLEX](https://www.brazilianjournals.com/index.php/BRJD/article/view/23958/19223)  
 
 Artigo: https://www.brazilianjournals.com/index.php/BRJD/article/view/23958/19223
 Superioridade do dicionário léxico multilingue BBLEX frente aos convencionais FIN(PT), SentiLex(PT), LCSR (EN), OS(EN).
