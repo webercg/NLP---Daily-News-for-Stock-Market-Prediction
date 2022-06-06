@@ -1,4 +1,4 @@
-# **Caderno de anotações**
+# 📝 **Caderno de anotações** 🤓
 
 ## Projeto: **Daily News for Stock Market Prediction** 🚀
 

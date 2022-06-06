@@ -1,4 +1,4 @@
-# Projeto DataScience - Finanças 🚀
+# 🚀 Projeto DataScience - Finanças 💰
 
 
 ## Projeto: **Daily News for Stock Market Prediction**
