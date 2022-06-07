@@ -30,8 +30,7 @@
 
 Superioridade do dicionário léxico multilingue BBLEX frente aos convencionais FIN(PT), SentiLex(PT), LCSR (EN), OS(EN).
 Fonte: https://www.brazilianjournals.com/index.php/BRJD/article/view/23958/19223
-
-Infelismente BBLEX não está disponível para uso.
+Nota 1: Infelismente BBLEX não está disponível para uso.
 
 Nesse artigo há uma comparação entre diversos algorítmos que calculam a polaridade, negatividade e positividade de noticias rotuladas. 
 https://dl.acm.org/doi/abs/10.1145/2512938.2512951  
