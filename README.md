@@ -17,6 +17,7 @@ Solução que use dados textuais de notícias para estimar um comportamento futu
 
 ## Links Úteis
 
+- [Trello](https://trello.com/b/oWJT0AQw/stack-labs-3-edi%C3%A7%C3%A3o)
 - [Stack Academy](https://stackacademy.com.br)
 - [Google COLAB](https://colab.research.google.com/?hl=pt_BR)
 - [Kaggle - Dataset](https://www.kaggle.com)
