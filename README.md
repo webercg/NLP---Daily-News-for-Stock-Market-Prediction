@@ -21,3 +21,8 @@ Solução que use dados textuais de notícias para estimar um comportamento futu
 - [Stack Academy](https://stackacademy.com.br)
 - [Google COLAB](https://colab.research.google.com/?hl=pt_BR)
 - [Kaggle - Dataset](https://www.kaggle.com)
+
+
+## Abordagem Data Science
+- Post de PhD em NLP pela University of Southern California falando que stoptowords removal, stemming e lemmatization para classification problems não ajudam ou ajudam marginalmente no modelo. Essas técnicas são mais importantes para search systems https://towardsdatascience.com/all-you-need-to-know-about-text-preprocessing-for-nlp-and-machine-learning-bc1c5765ff67
+- 
