@@ -5,7 +5,8 @@ Dados minerados pela API GoogleNews.
 
 ## Dataset Definitivo:
 
-- Dataset 2020 (Pendente)
+- Dataset 2019
+- Dataset 2020 
 - Dataset 2021
 - Dataset 2022
 
