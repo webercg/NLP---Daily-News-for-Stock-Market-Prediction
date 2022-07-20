@@ -45,6 +45,12 @@ Não Supervisionados
 Sentilex: 1 feature  
 Tradução noticias + VaderSentiment: 4 features  
 
+Feature Engineering:
+Foi conduzido uma batelada de experimentos com variações do dicionário lexico Sentilex realizando análise de palavras mais frequentes em 2020 e 2021 e calculando o enviesamento positivo / negativo ( relação entre a quantidade de ocorrência das palavras em dias com alta/queda das ações sobre ocorrência total ).
+
+Testou-se as taxas de inviesamento de 65%, 70%, 75% e 80% e inputação de polaridade de +-1, +-2, +-3, +-4 e +-5.
+O dicionário que melhor performou na tarefa de classificação foi o composto pelas palavras com 70% de inviesamento e polaridade de +-3.
+
 Para predizer o comportamento do mercado em cada dia, foi considerado, além das features do dia atual as features de até 4 dias anteriores totalizando 55 features.
   
 Para selecionar as features foi realizado análise de correlação de variáveis e efetuado experimentos para validar os resultados avaliando a acurácia em 29 modelos ingênuos de classificação utilizando a biblioteca LazyPredict.
