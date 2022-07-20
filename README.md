@@ -14,7 +14,7 @@ NLP + Classificação
 - Validação estatística modelos: [datasets e notebooks/Predicoes 2022 com modelos treinados de 2021 e 2020.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Experimentos%20-%20Predicoes%202022%20com%20modelos%20treinados%20de%202021%20e%202020.ipynb)
 - Modelo final: [engenharia de dados/modelos/modelo-Ensemble.pkl] (https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/modelos/modelo-Ensemble.pkl)
 
-# Contribuidores:
+# Contribuidores: 
 
 1. [Weber Cordeiro](https://github.com/webercg);
 2. [Lenon Borges](https://github.com/lenonborges);
