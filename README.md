@@ -45,9 +45,9 @@ Não Supervisionados
 Sentilex: 1 feature  
 Tradução noticias + VaderSentiment: 4 features  
 
-Para predizer o comportamento do mercado em cada dia, foi considerado, além das features do dia atual as features de até 4 dias anteriores totalizando 55 features:
+Para predizer o comportamento do mercado em cada dia, foi considerado, além das features do dia atual as features de até 4 dias anteriores totalizando 55 features.
   
-Utilizamos análise de correlação para selecionar as features validando avaliando a acurácia do modelo de classificação em 29 algorítmos ingênuos utilizando a biblioteca LazyPredict.
+Para selecionar as features foi realizado análise de correlação de variáveis e efetuado experimentos para validar os resultados avaliando a acurácia em 29 modelos ingênuos de classificação utilizando a biblioteca LazyPredict.
   
 # Resultados:  
   
