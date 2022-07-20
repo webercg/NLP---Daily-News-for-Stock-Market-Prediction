@@ -22,9 +22,10 @@ NLP + Classificação
 4. [Mario]()
 5. [Anderson Miranda](https://github.com/aluipio)
 
-# Fonte de dados
+# Fonte de dados  
 
 WebScrapping: As noticias foram coletadas utilizando-se API GoogleNews. 
+
 WebScrapping: Os dados financeiros da biblioteca YFinance  
 
 # Metodologia
