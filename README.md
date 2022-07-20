@@ -67,9 +67,9 @@ Após retreinar o modelo com os primeiros 3 meses de 2022 o modelo passou a perf
 
 # Melhorias, Gaps do projeto e orientações para manutenção do modelo.  
   
-O modelo foi construido para prever os dados de 2020 e 2021 utilizando as palavras mais frequentes no período adicionando-as ao dicionário léxico Sentilex com polaridade de +-3. Dessa forma, para evitar que o modelo fique obsoleto é necessário realizar periodicamente a análise de palavras mais frequentes e adicioná-las ao léxico do dicionário inputando uma polaridade de +-3. 
+O modelo foi construido para prever os dados de 2020 e 2021 utilizando as palavras inviesadas positivamente e negativamente mais frequentes no período. Dessa forma, para evitar que o modelo fique obsoleto é necessário realizar a atualização do dicionário léxico periodicamente analisando as palavras mais frequentes e inputando a polaridade de +-3 ao dicionário.
   
-Além disso, orientamos retreinar o modelo quando observado baixa acurácia nos ultimos 30 dias sem retreino para forçar a aprendizagem de novos exemplos (como ocorrido nos três primeiros meses de 2022). Uma frequência de retreino de 90 dias já é o suficiente para manter a performance do modelo caso seja observado acurácia de 60% ou superior.
+Além disso, orientamos retreinar o modelo quando observado baixa acurácia nos ultimos 30 dias sem retreino para forçar a aprendizagem de novos exemplos (como ocorrido nos três primeiros meses de 2022). Contudo, uma frequência de retreino de 90 dias já é o suficiente para manter a performance do modelo caso seja observado acurácia de 60% ou superior.
   
 Embora tenha sido observado alta acurácia sobre as predições dos dados de validação de 2022, observamos também que o recall da classe 0 e classe 1 ficaram desbalanceados. Isso requer uma nova batelada de experimentos sobre os dados de 2022 para avaliar o motivo desse comportamento e possíveis ajustes no modelos. 
   
