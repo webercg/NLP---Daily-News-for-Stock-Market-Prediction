@@ -65,7 +65,7 @@ O modelo composto pelo ensemble dos 4 melhores modelos atingiu:
   
 Após retreinar o modelo com os primeiros 3 meses de 2022 o modelo passou a performar com acurácia de 66% sobre os dados de 2022.  
 
-# Melhorias, Gaps do projeto e sugestões.  
+# Melhorias, Gaps do projeto e orientações para manutenção do modelo.  
   
 O modelo foi construido para prever os dados de 2020 e 2021 utilizando as palavras mais frequentes no período adicionando-as ao dicionário léxico Sentilex com polaridade de +-3. Dessa forma, para evitar que o modelo fique obsoleto é necessário realizar periodicamente a análise de palavras mais frequentes e adicioná-las ao léxico do dicionário inputando uma polaridade de +-3. 
   
