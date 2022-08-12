@@ -6,7 +6,7 @@
 Solução que use dados textuais de notícias para estimar um comportamento futuro do mercado de ações.
 NLP + Classificação
 
-# Repositório
+# Repositório V1.0 - Projeto
 - Coleta de dados financeiros: [engenharia de dados/Coleta de precos de ativos - YFinance.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/Coleta%20de%20precos%20de%20ativos%20-%20YFinance.ipynb)
 - Coleta de dados de noticias: [Coleta de noticias - engenharia de dados/GoogleNews.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/Coleta%20de%20noticias%20-%20GoogleNews.ipynb)
 - Experimentos para features engineering: [datasets e notebooks/Experimentos - Analise, feature engineering e selecao de features.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Experimentos%20-%20Analise%2C%20feature%20engineering%20e%20selecao%20de%20features.ipynb)
