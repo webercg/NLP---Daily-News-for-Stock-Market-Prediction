@@ -2,7 +2,7 @@
 
 ## Artigo completo de como foi construido a solução:
 
-- Clique no [Link para abrir o artigo] (https://medium.com/@weber.cg/an%C3%A1lise-de-sentimento-de-not%C3%ADcias-para-predi%C3%A7%C3%A3o-dos-valores-de-a%C3%A7%C3%B5es-da-petrobras-496260794abc)
+- Clique no [Link para abrir o artigo](https://medium.com/@weber.cg/an%C3%A1lise-de-sentimento-de-not%C3%ADcias-para-predi%C3%A7%C3%A3o-dos-valores-de-a%C3%A7%C3%B5es-da-petrobras-496260794abc)
 
 ## Projeto: **Daily News for Stock Market Prediction**
 
