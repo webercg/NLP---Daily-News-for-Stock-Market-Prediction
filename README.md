@@ -9,10 +9,14 @@ NLP + Classificação
 # Repositório
 - Coleta de dados financeiros: [engenharia de dados/Coleta de precos de ativos - YFinance.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/Coleta%20de%20precos%20de%20ativos%20-%20YFinance.ipynb)
 - Coleta de dados de noticias: [Coleta de noticias - engenharia de dados/GoogleNews.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/Coleta%20de%20noticias%20-%20GoogleNews.ipynb)
-- Experimentos e features engineering: [datasets e notebooks/Experimentos - Analise, feature engineering e selecao de features.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Experimentos%20-%20Analise%2C%20feature%20engineering%20e%20selecao%20de%20features.ipynb)
-- Tunning Modelos: [datasets e notebooks/Experimentos - Machine Learning.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Experimentos%20-%20Machine%20Learning.ipynb)
+- Experimentos para features engineering: [datasets e notebooks/Experimentos - Analise, feature engineering e selecao de features.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Experimentos%20-%20Analise%2C%20feature%20engineering%20e%20selecao%20de%20features.ipynb)
+- Experimentos e Tunning Modelos: [datasets e notebooks/Experimentos - Machine Learning.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Experimentos%20-%20Machine%20Learning.ipynb)
 - Validação estatística modelos: [datasets e notebooks/Predicoes 2022 com modelos treinados de 2021 e 2020.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Experimentos%20-%20Predicoes%202022%20com%20modelos%20treinados%20de%202021%20e%202020.ipynb)
 - Modelo final: [engenharia de dados/modelos/modelo-Ensemble.pkl](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/modelos/modelo-Ensemble.pkl)
+
+
+## O projeto passou por uma reestruturação e foi elaborado uma Versão 2.0 para contornar problemas de estabilidade e performance em dados de produção:
+- Notebook Projeto V 2.0: [V2.0 do Projeto](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/datasets%20e%20notebooks/Notebook%20final%20-%20V2%20-%20Compilado%20experimentos%20.ipynb)
 
 # Contribuidores: 
 
