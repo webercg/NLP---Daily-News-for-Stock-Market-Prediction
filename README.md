@@ -15,7 +15,7 @@ NLP + Classificação
 - Modelo final: [engenharia de dados/modelos/modelo-Ensemble.pkl](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/modelos/modelo-Ensemble.pkl)
 
 
-## Repositório V2.0 - Projeto
+# Repositório V2.0 - Projeto
 O projeto passou por uma reestruturação e foi elaborado uma Versão 2.0 para contornar problemas de estabilidade e performance em dados de produção:
 
 - Coleta de dados financeiros: [engenharia de dados/Coleta de precos de ativos - YFinance.ipynb](https://github.com/webercg/NLP---Daily-News-for-Stock-Market-Prediction/blob/main/engenharia%20de%20dados/Coleta%20de%20precos%20de%20ativos%20-%20YFinance.ipynb)
